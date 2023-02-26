@@ -1,0 +1,129 @@
+body{
+    text-align: center;
+    font-family: Merriweather,Arial , sans-serif;
+    margin:0;
+    background-color: #e6fbf3;
+    
+}
+.cloud1{
+    position: absolute;
+    height: 90px;
+    left: 400px;
+    top: 300px;
+}
+.top {
+    background-color: #cffdfd;
+    position: relative;
+    /* padding: 20px; */
+    height: 675px;
+}
+.cloud2 {
+    position: absolute;
+    right: 400px;
+    height: 90px;
+}
+.below_name {
+    font-weight: normal;
+    margin-top: 0;
+    font-size: 1rem;
+}
+.name {
+    color: #66BFBF;
+    font-family: Parisienne, sans-serif;
+    font-size: 5.625rem;
+    display: inline-block;
+    margin: 60 auto 0 auto;
+    font-weight: normal;
+}
+h2{
+    color: #66BFBF;
+}
+h3
+{
+    color: #11999E;
+}
+.skill-h3{
+    font-size: 160%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto ;
+    text-align: left;
+}
+.skill-p {
+    line-height: 2;
+}
+.skill-img {
+    width: 25%;
+    height: 28%;
+}
+.profile {
+    width: 35%;
+    margin: 100px auto;
+}
+hr {
+    margin: 100px auto;
+    width: 4%;
+    border-style: dotted none none none ;
+    color: #eaf6f6;
+    border-width: 7px;
+    color: lightgray;
+
+}
+.bottom-container{
+    margin-top: 50px;
+    padding: 50px;
+    background-color: #66BFBF;
+}
+
+.bottom{
+    color: #EAF6F6;
+    font-size: 0.8rem;
+    margin-top: 20px;
+    font-family: kanit;
+}
+.contact-me{
+    width: 35%;
+    margin: auto;
+}
+a {
+    font-family: Montserrat;
+    text-decoration: none;
+
+    color: #046b6e;
+    margin: auto 10px;
+}
+a:hover {
+    color: #eaf6f6;
+}
+.btn{
+    font-family: Merriweather;
+    color: #eaf6f6;
+    display: inline-block;
+    width: 24%;
+    margin: 20px auto;
+    border-radius: 10px;
+    background: linear-gradient( #11cdd4, #11999e);
+    padding: 10px;
+}
+.btn:hover{
+    background: linear-gradient(#30e3cb,#2bc4ad);
+}
+.iit {
+    font-family: merriweather;
+    margin: auto;
+}
+.iit:hover{
+    color: #6dc0c3;
+}
+span{
+    color: #046b6e;
+    font-weight: bolder;
+    font-size: 130%;
+}
+.grad {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(#cffdfd,#e6fbf3);
+}
